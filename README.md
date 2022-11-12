@@ -10,6 +10,8 @@
 
 [GitHub - tengshiquan/fudan_bert_homework](https://github.com/tengshiquan/fudan_bert_homework)
 
+bert预训练模型 pytorch_model.bin
+下载地址：https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz
 
 
 ### 中文数据集
