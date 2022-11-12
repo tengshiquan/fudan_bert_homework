@@ -2,9 +2,7 @@
 
 ### 介绍
 
-中文文本分类，Bert , 基于pytorch。
-
-
+中文新闻标题分类， 基于pytorch，Bert的预训练模型 进行 finetune.
 
 #### 地址
 
@@ -12,7 +10,6 @@
 
 bert预训练模型 pytorch_model.bin
 下载地址：https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz
-
 
 ### 中文数据集
 
